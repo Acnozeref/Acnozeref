@@ -1,13 +1,13 @@
 
-# Hi there 👋, I'm Kevin Tenorio (Acnozeref)
+# Hi there ❄️, I'm Kevin Tenorio (Acnozeref)
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Acnozeref.Acnozeref)
-
-<img align="right" width="280px" alt="Snow Miku" src="https://www.pinterest.com/pin/310889180531536971/"/>
+<p align="center">
+<img src="assets/Miku.gif" width="350">
+</p>
 
 ## ❄️ About Me
 
-I'm a Backend Developer in training from **Mexico 🇲🇽**.
+I'm a Backend Developer in training from Mexico 🇲🇽.
 
 I enjoy learning by building projects and improving my programming skills every day.
 
@@ -16,8 +16,6 @@ I enjoy learning by building projects and improving my programming skills every 
 - ⚙️ Interested in Backend Development and REST APIs
 - 🚀 Building projects to strengthen my portfolio
 - 🎯 Goal: Become a Backend Developer
-
----
 
 ## 💻 Tech Stack
 
@@ -52,31 +50,15 @@ I enjoy learning by building projects and improving my programming skills every 
 </span>
 
 
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Acnozeref&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acnozeref&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## 📫 Contact
 
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:ssgsslol@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
----
 
 > ❄️ *"Learning one project at a time."*
 

@@ -1,5 +1,5 @@
 
-# Hi there ❄️, I'm Kevin Tenorio (Acnozeref)
+# Hi there ❄️, I'm Kevin Tenorio
 
 <p align="center">
 <img src="assets/Miku.gif" width="350">

@@ -31,7 +31,6 @@ I enjoy learning by building projects and improving my programming skills every 
 
 <span>
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/REST_API-Learning-009688?style=for-the-badge">
 </span>
 
 ### 🗄️ Database
